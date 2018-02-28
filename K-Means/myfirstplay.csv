@@ -1,0 +1,15 @@
+Outlook,Temperature,Humidity,Windy,Decision
+overcast,72,90,strong,play
+overcast,83,78,weak,play
+overcast,64,65,strong,play
+overcast,81,75,weak,play
+sunny,75,70,strong,play
+sunny,80,90,strong,dont_play
+sunny,85,85,weak,dont_play
+sunny,72,95,weak,dont_play
+sunny,69,70,weak,play
+rain,71,80,strong,dont_play
+rain,65,70,strong,dont_play
+rain,75,80,weak,play
+rain,68,80,weak,play
+rain,70,96,weak,play

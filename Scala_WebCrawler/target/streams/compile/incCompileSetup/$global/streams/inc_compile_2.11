@@ -1,0 +1,624 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+67 items
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\HTMLParser$$anonfun$parse$1.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\HTMLParser$.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\HTMLParser.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$1.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$2$$anonfun$apply$5.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$2.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$3.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$edu$neu$coe$scala$crawler$WebCrawler$$getLinks$1$1.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$edu$neu$coe$scala$crawler$WebCrawler$$getLinks$1$2.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$edu$neu$coe$scala$crawler$WebCrawler$$getURLs$1$1$$anonfun$apply$1.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$edu$neu$coe$scala$crawler$WebCrawler$$getURLs$1$1.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$edu$neu$coe$scala$crawler$WebCrawler$$inner$1$1$$anonfun$apply$3.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$edu$neu$coe$scala$crawler$WebCrawler$$inner$1$1.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$edu$neu$coe$scala$crawler$WebCrawler$$inner$1$2$$anonfun$apply$4.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$edu$neu$coe$scala$crawler$WebCrawler$$inner$1$2.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$getURLContent$1.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$getURLContent$2.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$wget$1.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$wget$2$$anonfun$apply$2.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$wget$2.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$delayedInit$body.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$1.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$2.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$3.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$4.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$5$$anonfun$apply$2.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$5.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$6.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$7.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$flatten$1$$anonfun$apply$1.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$flatten$1.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$flatten$2.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$flatten$3.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$flatten$4$$anonfun$apply$3.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$flatten$4.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$flattenRecover$1.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$flattenRecover$2.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$liftFuture$1.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$liftOption$1.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$liftTry$1.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$map2$1$$anonfun$apply$11.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$map2$1.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$optionToTry$1.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$optionToTry$2.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$optionToTry$3.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$1$$anonfun$applyOrElse$1.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$1.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$2.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$3.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$4.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$5.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$6.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$7$$anonfun$apply$4$$anonfun$apply$5.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$7$$anonfun$apply$4.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$7.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$8$$anonfun$apply$6$$anonfun$apply$7.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$8$$anonfun$apply$6.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$8.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$9$$anonfun$apply$8$$anonfun$apply$9.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$9$$anonfun$apply$8.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$9.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$zip$1$$anonfun$apply$10.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$zip$1.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$.class
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps.class
+binary dependencies:
+9 items
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> C:\Users\Manasi Laddha\.ivy2\cache\org.ccil.cowan.tagsoup\tagsoup\jars\tagsoup-1.2.1.jar
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> C:\Users\Manasi Laddha\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.2.jar
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> C:\Users\Manasi Laddha\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> C:\jdk1.8.0_101\jre\lib\rt.jar
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> C:\Users\Manasi Laddha\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.2.jar
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> C:\Users\Manasi Laddha\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> C:\jdk1.8.0_101\jre\lib\rt.jar
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> C:\Users\Manasi Laddha\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> C:\jdk1.8.0_101\jre\lib\rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+67 items
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> edu.neu.coe.scala.crawler.HTMLParser
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> edu.neu.coe.scala.crawler.HTMLParser$
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> edu.neu.coe.scala.crawler.HTMLParser$$anonfun$parse$1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> edu.neu.coe.scala.crawler.WebCrawler
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> edu.neu.coe.scala.crawler.WebCrawler$
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> edu.neu.coe.scala.crawler.WebCrawler$$anonfun$1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> edu.neu.coe.scala.crawler.WebCrawler$$anonfun$2
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> edu.neu.coe.scala.crawler.WebCrawler$$anonfun$2$$anonfun$apply$5
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> edu.neu.coe.scala.crawler.WebCrawler$$anonfun$3
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> edu.neu.coe.scala.crawler.WebCrawler$$anonfun$edu$neu$coe$scala$crawler$WebCrawler$$getLinks$1$1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> edu.neu.coe.scala.crawler.WebCrawler$$anonfun$edu$neu$coe$scala$crawler$WebCrawler$$getLinks$1$2
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> edu.neu.coe.scala.crawler.WebCrawler$$anonfun$edu$neu$coe$scala$crawler$WebCrawler$$getURLs$1$1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> edu.neu.coe.scala.crawler.WebCrawler$$anonfun$edu$neu$coe$scala$crawler$WebCrawler$$getURLs$1$1$$anonfun$apply$1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> edu.neu.coe.scala.crawler.WebCrawler$$anonfun$edu$neu$coe$scala$crawler$WebCrawler$$inner$1$1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> edu.neu.coe.scala.crawler.WebCrawler$$anonfun$edu$neu$coe$scala$crawler$WebCrawler$$inner$1$1$$anonfun$apply$3
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> edu.neu.coe.scala.crawler.WebCrawler$$anonfun$edu$neu$coe$scala$crawler$WebCrawler$$inner$1$2
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> edu.neu.coe.scala.crawler.WebCrawler$$anonfun$edu$neu$coe$scala$crawler$WebCrawler$$inner$1$2$$anonfun$apply$4
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> edu.neu.coe.scala.crawler.WebCrawler$$anonfun$getURLContent$1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> edu.neu.coe.scala.crawler.WebCrawler$$anonfun$getURLContent$2
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> edu.neu.coe.scala.crawler.WebCrawler$$anonfun$wget$1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> edu.neu.coe.scala.crawler.WebCrawler$$anonfun$wget$2
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> edu.neu.coe.scala.crawler.WebCrawler$$anonfun$wget$2$$anonfun$apply$2
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> edu.neu.coe.scala.crawler.WebCrawler$delayedInit$body
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$2
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$3
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$4
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$5
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$5$$anonfun$apply$2
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$6
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$7
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$flatten$1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$flatten$1$$anonfun$apply$1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$flatten$2
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$flatten$3
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$flatten$4
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$flatten$4$$anonfun$apply$3
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$flattenRecover$1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$flattenRecover$2
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$liftFuture$1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$liftOption$1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$liftTry$1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$map2$1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$map2$1$$anonfun$apply$11
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$optionToTry$1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$optionToTry$2
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$optionToTry$3
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$sequence$1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$sequence$1$$anonfun$applyOrElse$1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$sequence$2
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$sequence$3
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$sequence$4
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$sequence$5
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$sequence$6
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$sequence$7
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$sequence$7$$anonfun$apply$4
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$sequence$7$$anonfun$apply$4$$anonfun$apply$5
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$sequence$8
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$sequence$8$$anonfun$apply$6
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$sequence$8$$anonfun$apply$6$$anonfun$apply$7
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$sequence$9
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$sequence$9$$anonfun$apply$8
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$sequence$9$$anonfun$apply$8$$anonfun$apply$9
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$zip$1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu.neu.coe.scala.MonadOps$$anonfun$zip$1$$anonfun$apply$10
+used names:
+328 items
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> <byname>
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> <init>
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> Any
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> AnyRef
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> Array
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> Byte
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> ByteArrayInputStream
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> HTMLParser
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> InputSource
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> InputStream
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> NoBindingFactoryAdapter
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> Node
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> Nothing
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> Object
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> Predef
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> SAXFactoryImpl
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> SAXParser
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> String
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> T
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> Try
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> adapter
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> apply
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> ccil
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> coe
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> cowan
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> crawler
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> edu
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> encoding
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> getBytes
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> html
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> io
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> java
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> jaxp
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> loadXML
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> neu
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> newSAXParser
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> org
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> package
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> parse
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> parser
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> parsing
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> sax
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> scala
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> source
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> stream
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> tagsoup
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> util
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> xml
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> ++:
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> -
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> <byname>
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> <init>
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> <repeated>
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> >
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> A
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> A1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> AbstractPartialFunction
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Any
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> AnyRef
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> App
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Array
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> ArrayOps
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Await
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Awaitable
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> B
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> B1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Boolean
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> BufferedSource
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> CanBuildFrom
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Codec
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Coll
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Duration
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Either
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> ExecutionContext
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> ExecutionContextExecutor
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Failure
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Function1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Future
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> GenTraversableOnce
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> HTMLParser
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Implicits
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Int
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> List
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> M
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> MatchError
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> MonadOps
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Nil
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Node
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> NodeSeq
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Nothing
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Object
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> PartialFunction
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Predef
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> PrintStream
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> RuntimeException
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> S
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Seq
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Source
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> String
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> StringContext
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Success
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> System
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> T
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> T0
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> T1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> T2
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> That
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Throwable
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Traversable
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> TraversableOnce
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Try
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Tuple2
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> U
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> URL
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> Unit
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> WebCrawler
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> X
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> \@
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> \\
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> _2
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> a
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> accum
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> apply
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> arg
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> args
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> asFuture
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> asInstanceOf
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> canBuildFrom
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> coe
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> collection
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> concurrent
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> crawler
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> depth
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> distinct
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> duration
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> edu
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> err
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> exception
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> f
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> fallbackSystemCodec
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> flatMap
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> flattenRecover
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> foreach
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> fromURL
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> futSeqUrl
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> g
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> getLinks
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> getURLContent
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> getURLs
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> global
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> immutable
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> inner
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> io
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> isInstanceOf
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> java
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> lang
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> map
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> mkString
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> n
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> ne
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> net
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> neu
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> ns
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> package
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> parse
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> println
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> r
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> ready
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> recoverWith
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> refArrayOps
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> s
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> scala
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> sequence
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> source
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> successful
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> take
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> toList
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> u
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> unchecked
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> url
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> urls
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> us
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> us2
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> util
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> value
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> wget
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> x
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> xml
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> z
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> $conforms
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> ->
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> /:
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> :+
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> <:<
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> <byname>
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> <init>
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> <refinement>
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> <repeated>
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> A
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> A1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> AbstractPartialFunction
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Any
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> AnyRef
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> ArrowAssoc
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> B
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> B1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Boolean
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> CanBuildFrom
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Coll
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Either
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> ExecutionContext
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Failure
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> FilterMonadic
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Function1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Function2
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Future
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> GenTraversableOnce
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Iterable
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> K
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Left
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> M
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Map
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> MatchError
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> MonadOps
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Nothing
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Object
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Option
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> PartialFunction
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Predef
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Product
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Right
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> RightProjection
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> S
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Seq
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Serializable
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Stream
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Success
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> T
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> T0
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> T1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> T2
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> That
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Throwable
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> TraversableOnce
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Try
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Tuple2
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> U
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> Unit
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> V
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> X
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> _1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> _2
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> _root_
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> a
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> ao
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> apply
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> asFuture
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> asInstanceOf
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> b
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> bo
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> canBuildFrom
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> coe
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> collection
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> concurrent
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> e
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> ec
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> edu
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> es
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> esf
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> exception
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> executor
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> f
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> failed
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> filter
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> flatMap
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> flatten
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> get
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> immutable
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> isInstanceOf
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> k
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> map
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> ne
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> neu
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> option2Iterable
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> package
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> recoverWith
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> right
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> s
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> scala
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> sequence
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> successful
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> t
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> t1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> t2
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> toOption
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> transform
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> ty1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> ty2
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> unchecked
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> us
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> use
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> uses
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> uses2
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> uso
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> uss
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> util
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> v
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> value
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> vo
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> voKm
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> withFilter
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> x
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> xe
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> xf
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> xfs
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> xfy
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> xo
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> xos
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> xs
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> xsfs
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> xso
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> xsy
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> xy
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> xyf
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> xys
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> y
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> y1
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> yy
+product stamps:
+67 items
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\HTMLParser$$anonfun$parse$1.class -> lastModified(1488563632790)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\HTMLParser$.class -> lastModified(1488563632774)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\HTMLParser.class -> lastModified(1488563632727)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$1.class -> lastModified(1488563632868)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$2$$anonfun$apply$5.class -> lastModified(1488563632932)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$2.class -> lastModified(1488563632915)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$3.class -> lastModified(1488563632948)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$edu$neu$coe$scala$crawler$WebCrawler$$getLinks$1$1.class -> lastModified(1488563632964)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$edu$neu$coe$scala$crawler$WebCrawler$$getLinks$1$2.class -> lastModified(1488563632979)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$edu$neu$coe$scala$crawler$WebCrawler$$getURLs$1$1$$anonfun$apply$1.class -> lastModified(1488563633010)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$edu$neu$coe$scala$crawler$WebCrawler$$getURLs$1$1.class -> lastModified(1488563632995)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$edu$neu$coe$scala$crawler$WebCrawler$$inner$1$1$$anonfun$apply$3.class -> lastModified(1488563633026)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$edu$neu$coe$scala$crawler$WebCrawler$$inner$1$1.class -> lastModified(1488563633010)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$edu$neu$coe$scala$crawler$WebCrawler$$inner$1$2$$anonfun$apply$4.class -> lastModified(1488563633042)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$edu$neu$coe$scala$crawler$WebCrawler$$inner$1$2.class -> lastModified(1488563633042)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$getURLContent$1.class -> lastModified(1488563633057)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$getURLContent$2.class -> lastModified(1488563633073)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$wget$1.class -> lastModified(1488563633073)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$wget$2$$anonfun$apply$2.class -> lastModified(1488563633089)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$$anonfun$wget$2.class -> lastModified(1488563633089)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$.class -> lastModified(1488563632852)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler$delayedInit$body.class -> lastModified(1488563633104)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\crawler\WebCrawler.class -> lastModified(1488563632821)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$1.class -> lastModified(1488563631929)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$2.class -> lastModified(1488563631945)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$3.class -> lastModified(1488563631976)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$4.class -> lastModified(1488563632007)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$5$$anonfun$apply$2.class -> lastModified(1488563632132)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$5.class -> lastModified(1488563632038)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$6.class -> lastModified(1488563632163)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$7.class -> lastModified(1488563632179)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$flatten$1$$anonfun$apply$1.class -> lastModified(1488563632226)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$flatten$1.class -> lastModified(1488563632210)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$flatten$2.class -> lastModified(1488563632241)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$flatten$3.class -> lastModified(1488563632257)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$flatten$4$$anonfun$apply$3.class -> lastModified(1488563632304)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$flatten$4.class -> lastModified(1488563632288)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$flattenRecover$1.class -> lastModified(1488563632320)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$flattenRecover$2.class -> lastModified(1488563632335)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$liftFuture$1.class -> lastModified(1488563632351)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$liftOption$1.class -> lastModified(1488563632393)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$liftTry$1.class -> lastModified(1488563632407)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$map2$1$$anonfun$apply$11.class -> lastModified(1488563632446)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$map2$1.class -> lastModified(1488563632421)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$optionToTry$1.class -> lastModified(1488563632462)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$optionToTry$2.class -> lastModified(1488563632477)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$optionToTry$3.class -> lastModified(1488563632493)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$1$$anonfun$applyOrElse$1.class -> lastModified(1488563632509)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$1.class -> lastModified(1488563632509)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$2.class -> lastModified(1488563632524)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$3.class -> lastModified(1488563632540)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$4.class -> lastModified(1488563632555)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$5.class -> lastModified(1488563632571)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$6.class -> lastModified(1488563632587)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$7$$anonfun$apply$4$$anonfun$apply$5.class -> lastModified(1488563632634)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$7$$anonfun$apply$4.class -> lastModified(1488563632618)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$7.class -> lastModified(1488563632602)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$8$$anonfun$apply$6$$anonfun$apply$7.class -> lastModified(1488563632649)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$8$$anonfun$apply$6.class -> lastModified(1488563632649)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$8.class -> lastModified(1488563632634)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$9$$anonfun$apply$8$$anonfun$apply$9.class -> lastModified(1488563632696)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$9$$anonfun$apply$8.class -> lastModified(1488563632680)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$sequence$9.class -> lastModified(1488563632665)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$zip$1$$anonfun$apply$10.class -> lastModified(1488563632712)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$$anonfun$zip$1.class -> lastModified(1488563632696)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps$.class -> lastModified(1488563631820)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\classes\edu\neu\coe\scala\MonadOps.class -> lastModified(1488563631445)
+source stamps:
+3 items
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> hash(0929e6c768729d2999e6f105b145aff67144537e)
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> hash(3b6501fcbc1e4dc7c55fded91f1b9248b2368add)
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> hash(cd9582a188891430ee397208140677bd2f727cfd)
+binary stamps:
+4 items
+C:\jdk1.8.0_101\jre\lib\rt.jar -> lastModified(1473945175844)
+C:\Users\Manasi Laddha\.ivy2\cache\org.ccil.cowan.tagsoup\tagsoup\jars\tagsoup-1.2.1.jar -> lastModified(1314032683000)
+C:\Users\Manasi Laddha\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.2.jar -> lastModified(1400573445000)
+C:\Users\Manasi Laddha\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+4 items
+C:\jdk1.8.0_101\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Manasi Laddha\.ivy2\cache\org.ccil.cowan.tagsoup\tagsoup\jars\tagsoup-1.2.1.jar -> org.ccil.cowan.tagsoup.jaxp.SAXFactoryImpl
+C:\Users\Manasi Laddha\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.2.jar -> scala.xml.NodeSeq
+C:\Users\Manasi Laddha\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.App
+internal apis:
+3 items
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwIKFY9gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwN6nO4nQABm5vdGlmeXNxAH4ADGLUh6R0AApIVE1MUGFyc2Vyc3EAfgAMtM796HQABHdhaXRzcQB+AAxcX9PpdAANJGFzSW5zdGFuY2VPZnNxAH4ADD22rYl0AAZlcXVhbHNzcQB+AAyL9cmudAAMYXNJbnN0YW5jZU9mc3EAfgAM4csSYXQABnBhcnNlcnNxAH4ADLKpXzl0AAxzeW5jaHJvbml6ZWRzcQB+AAzwj9l7dAANJGlzSW5zdGFuY2VPZnNxAH4ADASXilZ0AAdhZGFwdGVyc3EAfgAMpAiQuHQACW5vdGlmeUFsbHNxAH4ADP0pkjd0AAxpc0luc3RhbmNlT2ZzcQB+AAzINHYrdAAPcGFyc2UkZGVmYXVsdCQyc3EAfgAMxz3TMnQABXBhcnNlc3EAfgAMLU2TdnQAAj09c3EAfgAM6BvZ1nQABWNsb25lc3EAfgAMqrJV2nQACHRvU3RyaW5nc3EAfgAMiY8903QAAiE9c3EAfgAMSuGYn3QACGdldENsYXNzc3EAfgAMsbiJr3QAAm5lc3EAfgAM4H8qsnQAAmVxc3EAfgAMDD4ofHQAAiMjc3EAfgAMJijOGXQACGZpbmFsaXplc3EAfgAMkIQnDXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAJGVkdS5uZXUuY29lLnNjYWxhLmNyYXdsZXIuSFRNTFBhcnNlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AX3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBHTAAJaW5oZXJpdGVkcQB+AEdMAAdwYXJlbnRzcQB+AEd4cQB+AGRzcQB+AF91cQB+AEIAAAAAc3EAfgBfdXEAfgBCAAAAAHNxAH4AX3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AY3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AY3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AfXNxAH4AcHQAA0FueXNxAH4AdHNxAH4Ad3VxAH4AegAAAAJzcQB+AHx0AAVzY2FsYXEAfgCDdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAVzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAZZWR1Lm5ldS5jb2Uuc2NhbGEuY3Jhd2xlcnNxAH4AjXQAEWVkdS5uZXUuY29lLnNjYWxhc3EAfgCNdAAHZWR1Lm5ldXNxAH4AjXQAA2VkdXNxAH4AjXQAC2VkdS5uZXUuY29lc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFalU47cnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD5EOlxTY2FsYUNsYXNzXEFzc2lnbm1lbnQ1X1dlYkNyYXdsZXJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFAkp5sdocp0pmebxBbFFr/ZxRFN+
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwn2t2pwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAec3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwOeC1yHQABm5vdGlmeXNxAH4ADDVJ+CB0AAFzc3EAfgAMD84QDHQABHdhaXRzcQB+AAz9mBZvdAANJGFzSW5zdGFuY2VPZnNxAH4ADBcabyp0AAZlcXVhbHNzcQB+AAxDrd85dAAEdXJsc3NxAH4ADPei3JN0AAxhc0luc3RhbmNlT2ZzcQB+AAxAgimJdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAwOX/tZdAAMc3luY2hyb25pemVkc3EAfgAM7DL2o3QADSRpc0luc3RhbmNlT2ZzcQB+AAy21PDxdAAEbWFpbnNxAH4ADKYHAOp0AAlub3RpZnlBbGxzcQB+AAy8gTAsdAANZ2V0VVJMQ29udGVudHNxAH4ADM9a64l0AApXZWJDcmF3bGVyc3EAfgAMFRYdtnQADGlzSW5zdGFuY2VPZnNxAH4ADET98rN0AAI9PXNxAH4ADNZWH590AAVjbG9uZXNxAH4ADO5uKfV0AAYkaW5pdCRzcQB+AAxgB12KdAAIdG9TdHJpbmdzcQB+AAyGM4KedAAEYXJnc3NxAH4ADIoteCl0AAIhPXNxAH4ADMXTrnZ0AAhnZXRDbGFzc3NxAH4ADH6cDkN0AAR3Z2V0c3EAfgAMMVg4inQAAm5lc3EAfgAMeMHIRHQAB2NyYXdsZXJzcQB+AAzCt93pdAACZXFzcQB+AAwdB3P4dAALZGVsYXllZEluaXRzcQB+AAypa1G+dAACIyNzcQB+AAy2Ql7jdAAIZmluYWxpemVzcQB+AAxQzkgvdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBTeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAkZWR1Lm5ldS5jb2Uuc2NhbGEuY3Jhd2xlci5XZWJDcmF3bGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBtc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFNMAAlpbmhlcml0ZWRxAH4AU0wAB3BhcmVudHNxAH4AU3hxAH4AcnNxAH4AbXVxAH4ATgAAAABzcQB+AG11cQB+AE4AAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFRxAH4AXXVxAH4AXgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHx4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AcXQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBxc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCWc3EAfgBgAHEAfgAjdXEAfgBjAAAAAHNxAH4AiXQABFVuaXRxAH4Aj3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHx4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGZ0AAVQbGFpbnEAfgA1c3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCKWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBxc3EAfgCJdAAFQXJyYXlxAH4Aj3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCJdAAGU3RyaW5nc3EAfgCNc3EAfgCQdXEAfgCTAAAAA3NxAH4AlXQABGphdmFzcQB+AJV0AARsYW5ncQB+AJpzcQB+AG11cQB+ALEAAAAEc3EAfgCJdAADQXBwcQB+AI9zcQB+AIl0AAtEZWxheWVkSW5pdHEAfgCPc3EAfgCJdAAGT2JqZWN0cQB+ALVzcQB+AIl0AANBbnlxAH4Aj3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAFc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAGWVkdS5uZXUuY29lLnNjYWxhLmNyYXdsZXJzcQB+AMh0ABFlZHUubmV1LmNvZS5zY2FsYXNxAH4AyHQAB2VkdS5uZXVzcQB+AMh0AANlZHVzcQB+AMh0AAtlZHUubmV1LmNvZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpVOO3J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA+RDpcU2NhbGFDbGFzc1xBc3NpZ25tZW50NV9XZWJDcmF3bGVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQ7ZQH8vB5Nx8Vf3tkfG5JIsjaK3Q==
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwnceI0gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAec3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwfpakfnQABm5vdGlmeXNxAH4ADLyVGvd0AApsaWZ0RnV0dXJlc3EAfgAMp7L9enQAB2xpZnRUcnlzcQB+AAz1u6Y/dAAHZmxhdHRlbnNxAH4ADKmh+8p0AAhNb25hZE9wc3NxAH4ADDiazxh0AAR3YWl0c3EAfgAMMgjgsHQADSRhc0luc3RhbmNlT2ZzcQB+AAwJwmJ5dAADemlwc3EAfgAMepAZdHQABmVxdWFsc3NxAH4ADOL1pg50AAxhc0luc3RhbmNlT2ZzcQB+AAxpbMcfdAAMc3luY2hyb25pemVkc3EAfgAMBZhX1HQADSRpc0luc3RhbmNlT2ZzcQB+AAyRTkl1dAAIYXNGdXR1cmVzcQB+AAwd05G/dAALb3B0aW9uVG9UcnlzcQB+AAwQa8yPdAAJbm90aWZ5QWxsc3EAfgAMod2OBXQADGlzSW5zdGFuY2VPZnNxAH4ADHzityV0AAhzZXF1ZW5jZXNxAH4ADLjWek50AApsaWZ0T3B0aW9uc3EAfgAMegwCy3QAAj09c3EAfgAM54oS6HQABWNsb25lc3EAfgAMxHAiz3QACHRvU3RyaW5nc3EAfgAM15T1XXQAAiE9c3EAfgAM3+QnOHQACGdldENsYXNzc3EAfgAMKCZSrHQABG1hcDJzcQB+AAzgt21mdAACbmVzcQB+AAz6YdledAACZXFzcQB+AAwlgPaJdAACIyNzcQB+AAx4ydq2dAAIZmluYWxpemVzcQB+AAzHul9QdAAIaGFzaENvZGVzcQB+AAyq8TqYdAAOZmxhdHRlblJlY292ZXJzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBTeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAaZWR1Lm5ldS5jb2Uuc2NhbGEuTW9uYWRPcHN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGtzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AU0wACWluaGVyaXRlZHEAfgBTTAAHcGFyZW50c3EAfgBTeHEAfgBwc3EAfgBrdXEAfgBOAAAAAHNxAH4Aa3VxAH4ATgAAAABzcQB+AGt1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG90AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIh0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIlzcQB+AHx0AANBbnlzcQB+AIBzcQB+AIN1cQB+AIYAAAACc3EAfgCIdAAFc2NhbGFxAH4Aj3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAEWVkdS5uZXUuY29lLnNjYWxhc3EAfgCZdAAHZWR1Lm5ldXNxAH4AmXQAA2VkdXNxAH4AmXQAC2VkdS5uZXUuY29lc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFalU47cnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD5EOlxTY2FsYUNsYXNzXEFzc2lnbm1lbnQ1X1dlYkNyYXdsZXJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFM2VgqGIiRQw7jlyCBQGd70vcnz9
+external apis:
+0 items
+source infos:
+3 items
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\HTMLParser.scala -> 
+AAAAAAAAAAA=
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\crawler\WebCrawler.scala -> 
+AAAAAAAAAAA=
+D:\ScalaClass\Assignment5_WebCrawler\src\main\scala\edu\neu\coe\scala\MonadOps.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpVOO3J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPkQ6XFNjYWxhQ2xhc3NcQXNzaWdubWVudDVfV2ViQ3Jhd2xlclx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==

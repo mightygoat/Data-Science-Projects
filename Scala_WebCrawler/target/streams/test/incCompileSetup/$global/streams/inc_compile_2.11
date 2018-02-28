@@ -1,0 +1,363 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+31 items
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$1$$anonfun$apply$mcV$sp$1.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$1.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$2$$anonfun$8.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$2$$anonfun$9.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$2$$anonfun$apply$mcV$sp$2.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$2.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$3$$anonfun$10.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$3$$anonfun$11.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$3$$anonfun$apply$mcV$sp$3.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$3.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$4$$anonfun$12.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$4$$anonfun$13.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$4.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$5$$anonfun$14$$anonfun$apply$1.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$5$$anonfun$14.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$5$$anonfun$15.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$5$$anonfun$apply$mcV$sp$4$$anonfun$apply$2.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$5$$anonfun$apply$mcV$sp$4.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$5.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$6$$anonfun$16$$anonfun$apply$3.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$6$$anonfun$16.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$6$$anonfun$17$$anonfun$apply$4.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$6$$anonfun$17.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$6$$anonfun$apply$mcV$sp$5.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$6.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$7$$anonfun$18$$anonfun$apply$5.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$7$$anonfun$18.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$7$$anonfun$19.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$7$$anonfun$apply$mcV$sp$6.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$7.class
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec.class
+binary dependencies:
+3 items
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> C:\Users\Manasi Laddha\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> C:\Users\Manasi Laddha\.ivy2\cache\org.scalatest\scalatest_2.11\bundles\scalatest_2.11-2.2.4.jar
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> C:\jdk1.8.0_101\jre\lib\rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+3 items
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.MonadOps
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.MonadOps$
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawler$
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+31 items
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$1
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$1$$anonfun$apply$mcV$sp$1
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$2
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$2$$anonfun$8
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$2$$anonfun$9
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$2$$anonfun$apply$mcV$sp$2
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$3
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$3$$anonfun$10
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$3$$anonfun$11
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$3$$anonfun$apply$mcV$sp$3
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$4
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$4$$anonfun$12
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$4$$anonfun$13
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$5
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$5$$anonfun$14
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$5$$anonfun$14$$anonfun$apply$1
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$5$$anonfun$15
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$5$$anonfun$apply$mcV$sp$4
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$5$$anonfun$apply$mcV$sp$4$$anonfun$apply$2
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$6
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$6$$anonfun$16
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$6$$anonfun$16$$anonfun$apply$3
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$6$$anonfun$17
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$6$$anonfun$17$$anonfun$apply$4
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$6$$anonfun$apply$mcV$sp$5
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$7
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$7$$anonfun$18
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$7$$anonfun$18$$anonfun$apply$5
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$7$$anonfun$19
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu.neu.coe.scala.crawler.WebCrawlerSpec$$anonfun$7$$anonfun$apply$mcV$sp$6
+used names:
+186 items
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> $org_scalatest_assert_macro_expr
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> $org_scalatest_assert_macro_left
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> $org_scalatest_assert_macro_right
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> +=
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> <byname>
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> <init>
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> <repeated>
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> ==
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> >=
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> A
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Any
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> AnyShouldWrapper
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Assertions
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> AssertionsHelper
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> B
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> BeWord
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Bool
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Boolean
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> CanBuildFrom
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Coll
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> EX
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Either
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> ExecutionContext
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> ExecutionContextExecutor
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Failure
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> FileNotFoundException
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> FlatSpec
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Function1
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Function3
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Future
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> FutureConcept
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Futures
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> HaveWord
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Implicits
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> InAndIgnoreMethods
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Inside
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Int
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> ItVerbString
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> ItWord
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Left
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> List
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Long
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> MalformedURLException
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Manifest
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> ManifestFactory
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> MatchError
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Matcher
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Matchers
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Messaging
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> MonadOps
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> MutableList
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Nothing
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Ordering
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> PatienceConfig
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> PatienceConfiguration
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Predef
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> PrintStream
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> ResultOfATypeInvocation
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> ResultOfHaveWordForExtent
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> ResultOfStringPassedToVerb
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Right
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> ScalaFutures
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Seconds
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Seq
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Span
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> String
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> StringContext
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> StringShouldWrapper
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Success
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> SuccessOrFailure
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> System
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> T
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> T0
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> That
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Throwable
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Timeout
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Try
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> TryValues
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> TypeMatcherHelper
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> U
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> URL
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Unit
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> Units
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> WebCrawler
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> WebCrawlerSpec
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> X
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> _$17
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> _$5
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> a
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> apply
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> arg
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> args
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> asInstanceOf
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> assert
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> assertionsHelper
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> b
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> badURL
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> be
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> canBuildFrom
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> checkAType
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> classType
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> coe
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> collection
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> concurrent
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> convertScalaFuture
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> convertToAnyShouldWrapper
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> convertToInAndIgnoreMethods
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> convertToStringShouldWrapper
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> convertTryToSuccessOrFailure
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> crawler
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> distinct
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> e
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> edu
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> enablers
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> err
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> exception
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> exceptions
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> fail
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> failed
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> failure
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> flatten
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> flattenRecover
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> foreach
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> getURLContent
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> global
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> goodURL
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> have
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> immutable
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> in
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> io
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> isInstanceOf
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> it
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> java
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> lang
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> leftSideValue
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> length
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> lengthSizeMacroBool
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> macroAssert
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> map
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> matchers
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> math
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> message
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> messagingNatureOfThrowable
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> mutable
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> net
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> neu
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> org
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> package
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> patienceConfig
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> println
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> reflect
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> s
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> scala
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> scalactic
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> scalatest
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> sequence
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> shorthandTestRegistrationFunction
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> should
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> shouldBe
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> size
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> time
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> timeout
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> toLong
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> toString
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> tries
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> u
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> us
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> us1
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> us2
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> use
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> usefs
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> uses
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> usesf
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> usesfy
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> usf
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> usft
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> usfy
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> util
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> uys
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> value
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> w
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> wf
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> wget
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> whenReady
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> ws
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> x
+product stamps:
+31 items
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$1$$anonfun$apply$mcV$sp$1.class -> lastModified(1488563641505)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$1.class -> lastModified(1488563641490)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$2$$anonfun$8.class -> lastModified(1488563641646)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$2$$anonfun$9.class -> lastModified(1488563641912)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$2$$anonfun$apply$mcV$sp$2.class -> lastModified(1488563641927)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$2.class -> lastModified(1488563641505)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$3$$anonfun$10.class -> lastModified(1488563642349)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$3$$anonfun$11.class -> lastModified(1488563642365)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$3$$anonfun$apply$mcV$sp$3.class -> lastModified(1488563642490)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$3.class -> lastModified(1488563642318)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$4$$anonfun$12.class -> lastModified(1488563642521)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$4$$anonfun$13.class -> lastModified(1488563642521)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$4.class -> lastModified(1488563642505)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$5$$anonfun$14$$anonfun$apply$1.class -> lastModified(1488563642912)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$5$$anonfun$14.class -> lastModified(1488563642755)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$5$$anonfun$15.class -> lastModified(1488563642927)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$5$$anonfun$apply$mcV$sp$4$$anonfun$apply$2.class -> lastModified(1488563642959)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$5$$anonfun$apply$mcV$sp$4.class -> lastModified(1488563642943)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$5.class -> lastModified(1488563642552)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$6$$anonfun$16$$anonfun$apply$3.class -> lastModified(1488563643474)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$6$$anonfun$16.class -> lastModified(1488563643459)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$6$$anonfun$17$$anonfun$apply$4.class -> lastModified(1488563643755)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$6$$anonfun$17.class -> lastModified(1488563643615)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$6$$anonfun$apply$mcV$sp$5.class -> lastModified(1488563643771)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$6.class -> lastModified(1488563643162)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$7$$anonfun$18$$anonfun$apply$5.class -> lastModified(1488563644084)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$7$$anonfun$18.class -> lastModified(1488563643943)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$7$$anonfun$19.class -> lastModified(1488563644224)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$7$$anonfun$apply$mcV$sp$6.class -> lastModified(1488563644398)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec$$anonfun$7.class -> lastModified(1488563643927)
+D:\ScalaClass\Assignment5_WebCrawler\target\scala-2.11\test-classes\edu\neu\coe\scala\crawler\WebCrawlerSpec.class -> lastModified(1488563641459)
+source stamps:
+1 items
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> hash(fe99000f5eaa7120f17fa5ee1fb472d045eb9bcf)
+binary stamps:
+3 items
+C:\jdk1.8.0_101\jre\lib\rt.jar -> lastModified(1473945175844)
+C:\Users\Manasi Laddha\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457105192000)
+C:\Users\Manasi Laddha\.ivy2\cache\org.scalatest\scalatest_2.11\bundles\scalatest_2.11-2.2.4.jar -> lastModified(1422515758000)
+class names:
+3 items
+C:\jdk1.8.0_101\jre\lib\rt.jar -> java.io.PrintStream
+C:\Users\Manasi Laddha\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.util.Try
+C:\Users\Manasi Laddha\.ivy2\cache\org.scalatest\scalatest_2.11\bundles\scalatest_2.11-2.2.4.jar -> org.scalatest.FlatSpec
+internal apis:
+1 items
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwsh1x+AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAABBzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDUebHDdAAaY29udmVydFRvU3RyaW5nTXVzdFdyYXBwZXJzcQB+AAsZ4CTrdAAZY29udmVydFRvU3RyaW5nQ2FuV3JhcHBlcnNxAH4ACybXQC10ABljb252ZXJ0VG9BbnlTaG91bGRXcmFwcGVyc3EAfgALD+V//XQAEmNvbnZlcnRTY2FsYUZ1dHVyZXNxAH4ACzvp6990ACJjb252ZXJ0TnVtZXJpY1RvUGx1c09yTWludXNXcmFwcGVyc3EAfgALhM4yFHQAEmNvbnZlcnRUb0VxdWFsaXplcnNxAH4AC2HUhUV0AChjb252ZXJ0VG9JbkFuZElnbm9yZU1ldGhvZHNBZnRlclRhZ2dlZEFzc3EAfgALN9oFEHQAJ3Nob3J0aGFuZFNoYXJlZFRlc3RSZWdpc3RyYXRpb25GdW5jdGlvbnNxAH4AC1PidN50ABxjb252ZXJ0VHJ5VG9TdWNjZXNzT3JGYWlsdXJlc3EAfgALUX1Q23QAFWNvbnZlcnRUb1JlZ2V4V3JhcHBlcnNxAH4ACwjnyGd0ABV1bmNvbnN0cmFpbmVkRXF1YWxpdHlzcQB+AAszYQJBdAAOcGF0aWVuY2VDb25maWdzcQB+AAuSEhCDdAAbY29udmVydFRvSW5BbmRJZ25vcmVNZXRob2Rzc3EAfgALsK80kXQAHGNvbnZlcnRUb1N0cmluZ1Nob3VsZFdyYXBwZXJzcQB+AAtXkey/dAArY29udmVydFN5bWJvbFRvSGF2ZVByb3BlcnR5TWF0Y2hlckdlbmVyYXRvcnNxAH4AC82QD6x0ACFzaG9ydGhhbmRUZXN0UmVnaXN0cmF0aW9uRnVuY3Rpb251cQB+AAkAAAELc3EAfgALBQSK7HQAC2luT3JkZXJPbmx5c3EAfgALWMZo+XQABmFzc2VydHNxAH4AC6grTVp0AB5SZXN1bHRPZlN0YXJ0V2l0aFdvcmRGb3JTdHJpbmdzcQB+AAuqHc7DdAASUGx1c09yTWludXNXcmFwcGVyc3EAfgALAdhEDHQABm5vdGlmeXNxAH4ACxPpx810ACZsb3dQcmlvcml0eUNvbnZlcnNpb25DaGVja2VkQ29uc3RyYWludHNxAH4AC+HG9SR0AAdmYWlsdXJlc3EAfgALVLtItHQACXNob3VsZE5vdHNxAH4AC87KnFd0AAd1bmFwcGx5c3EAfgALE0h1NHQABXJlZ2V4c3EAfgALtQNAV3QABkFuV29yZHNxAH4ACwAAWst0AAdwcm9kdWNlc3EAfgALJZEfnHQAB2N1cnJpZWRzcQB+AAujznQ3dAAQQXNzZXJ0aW9uc0hlbHBlcnNxAH4ACzARCIB0AAZjYW5jZWxzcQB+AAtT3iHddAARZXhlY3V0ZSRkZWZhdWx0JDJzcQB+AAtAFnxAdAAMZXhwZWN0UmVzdWx0c3EAfgALOBMwZXQACWludGVyY2VwdHNxAH4AC73nLG90AARmYWlsc3EAfgALrn2EV3QAFEl0VmVyYlN0cmluZ1RhZ2dlZEFzc3EAfgALcVLxPXQABG5hbWVzcQB+AAtiRhhJdAACaW5zcQB+AAuMSMJQdAAQU3VjY2Vzc09yRmFpbHVyZXNxAH4AC8I4LAh0ABxIYXZlUHJvcGVydHlNYXRjaGVyR2VuZXJhdG9yc3EAfgALrgoEEnQABUFXb3Jkc3EAfgALx0mjsHQABGhhdmVzcQB+AAu0BnSddAAUYXNzZXJ0RG9lc05vdENvbXBpbGVzcQB+AAtdCZjBdAARZXhlY3V0ZSRkZWZhdWx0JDRzcQB+AAussm9UdAAiUmVzdWx0T2ZDb250YWluV29yZEZvckNvbGxlY3RlZEFueXNxAH4ACzARxBR0AAdzdWNjZXNzc3EAfgALUUhAcnQAAmlzc3EAfgALPdtebnQAB2V4ZWN1dGVzcQB+AAvKk14JdAAEd2FpdHNxAH4AC5m9qlF0AA5EZXRlcm1pbmVkV29yZHNxAH4AC2J68Ex0AAt0ZXN0RGF0YUZvcnNxAH4ACwgtPr90ABNjcmVhdGVDYXRjaFJlcG9ydGVyc3EAfgALYbdWl3QAAjw9c3EAfgAL+Iak6HQACXN0eWxlTmFtZXNxAH4AC5KPiUx0AA1sZWZ0U2lkZVZhbHVlc3EAfgAL5+ZWZnQADmNvcHkkZGVmYXVsdCQyc3EAfgAL8z6sXXQADSRhc0luc3RhbmNlT2ZzcQB+AAveZJLSdAAFZW1wdHlzcQB+AAuMz/zzdAAJc3RhcnRXaXRoc3EAfgALZM/6oHQABHNpemVzcQB+AAtrCVbLdAARZXhlY3V0ZSRkZWZhdWx0JDNzcQB+AAvT4jR/dAAKaXNDYW5jZWxlZHNxAH4ACyJYJWN0AAVjbGF6enNxAH4AC8tFO7d0ABRSZXN1bHRPZkNvbGxlY3RlZEFueXNxAH4AC2FDLtR0AAVleGlzdHNxAH4AC65gY0Z0ABA8aW5pdD4kZGVmYXVsdCQxc3EAfgALERH4AHQACWNvbmZpZ01hcHNxAH4ACzwJJsR0AAxwcm9kdWN0QXJpdHlzcQB+AAs5CBS/dAAJVmFsdWVXb3Jkc3EAfgALoWHXtXQABmVxdWFsc3NxAH4AC9sK2b10AAxhdExlYXN0T25lT2ZzcQB+AAvt52S3dAAHYXRMZWFzdHNxAH4ACw3sx3R0AAh0aHJvd25CeXNxAH4AC66ns6B0ABlSZXN1bHRPZlByb2R1Y2VJbnZvY2F0aW9uc3EAfgALhm7hu3QALGNvbnZlcnRFcXVpdmFsZW5jZVRvQVRvQkNvbnZlcnNpb25Db25zdHJhaW50c3EAfgAL9Ai2JHQAD2RlZmF1bHRFcXVhbGl0eXNxAH4ACxvl+MJ0ACJjb252ZXJ0RXF1aXZhbGVuY2VUb0FUb0JDb25zdHJhaW50c3EAfgALh8E9fnQAHFJlc3VsdE9mRW5kV2l0aFdvcmRGb3JTdHJpbmdzcQB+AAvyMEj+dAAEbXVzdHNxAH4AC5o5twl0AANhbGxzcQB+AAuzTi4ldAAEdGFnc3NxAH4AC6dVN2N0AAxhc0luc3RhbmNlT2ZzcQB+AAvjK9bodAABPHNxAH4AC/7oWx10AAVhbGVydHNxAH4AC64yUPB0AAdpbk9yZGVyc3EAfgAL1asUdnQAA3J1bnNxAH4ACylCYgF0ABFEZWNpZGVkQnlFcXVhbGl0eXNxAH4AC4JVlMt0AAVldmVyeXNxAH4AC3unztB0AA9MZWdhY3lFcXVhbGl6ZXJzcQB+AAvvoLigdAAGc2NvcGVzc3EAfgALjbRAn3QAGGNvbnZlcnRUb0xlZ2FjeUVxdWFsaXplcnNxAH4AC5oBHS50AAp3aXRoR3JvdXBzc3EAfgAL8phy2nQADHN5bmNocm9uaXplZHNxAH4AC9T6zhB0AARsZWZ0c3EAfgAL6rA8FnQAAml0c3EAfgALmUMR1nQACmV2YWx1YXRpbmdzcQB+AAvUrShNdAAHS2V5V29yZHNxAH4ACw5fNWB0ABF0aGVTYW1lRWxlbWVudHNBc3NxAH4AC/rJoMl0AA5hc3NlcnRDb21waWxlc3NxAH4AC7+6FKt0AApkZXRlcm1pbmVkc3EAfgAL7QmgwHQAAWFzcQB+AAsvZ7a3dAAObGVmdFNpZGVTdHJpbmdzcQB+AAuY/pmJdAANJGlzSW5zdGFuY2VPZnNxAH4AC2+k4dd0AAR0cmFwc3EAfgAL1iT0QXQAFXRlc3REYXRhRm9yJGRlZmF1bHQkMnNxAH4ACw3EoiN0ABJJbkFuZElnbm9yZU1ldGhvZHNzcQB+AAtUtrwhdAAMYXNzZXJ0UmVzdWx0c3EAfgALJeRau3QAHlJlc3VsdE9mTm90V29yZEZvckNvbGxlY3RlZEFueXNxAH4AC0+acBl0AAI+PXNxAH4AC1wc6cd0AAZ0dXBsZWRzcQB+AAvXwTukdAALcGx1c09yTWludXNzcQB+AAsRr8gjdAAXU3RyaW5nQ2FuV3JhcHBlckZvclZlcmJzcQB+AAuZ8vGOdAAEdGV4dHNxAH4AC+ZNmP90ACVSZXN1bHRPZkluY2x1ZGVXb3JkRm9yQ29sbGVjdGVkU3RyaW5nc3EAfgALdtqUlnQALGNvbnZlcnRFcXVpdmFsZW5jZVRvQlRvQUNvbnZlcnNpb25Db25zdHJhaW50c3EAfgALX0F17nQACGNhbkVxdWFsc3EAfgALDJtosHQAB2NvbnRhaW5zcQB+AAsYlfIIdAAEdGhleXNxAH4AC+8BPj10AAdjb21waWxlc3EAfgALkhyZr3QAEWV4ZWN1dGUkZGVmYXVsdCQ3c3EAfgALV0XLk3QAB2V4YWN0bHlzcQB+AAsHzyATdAARdGhlU2FtZUluc3RhbmNlQXNzcQB+AAvEqW4YdAANcHJvZHVjdFByZWZpeHNxAH4AC40tA7F0ACdSZXN1bHRPZlN0YXJ0V2l0aFdvcmRGb3JDb2xsZWN0ZWRTdHJpbmdzcQB+AAtBLvSRdAALRGVjaWRlZFdvcmRzcQB+AAuDOur0dAAVdHlwZUNoZWNrZWRDb25zdHJhaW50c3EAfgALaHUB8nQAAyE9PXNxAH4ACxfM3el0AAtmdXR1cmVWYWx1ZXNxAH4ACxivY6h0AAZhdE1vc3RzcQB+AAsJQ3LVdAAEaW5mb3NxAH4AC5FXNfp0AAtub0V4Y2VwdGlvbnNxAH4ACyoGKXh0AAlub3RpZnlBbGxzcQB+AAst53fHdAAMSXRWZXJiU3RyaW5nc3EAfgALFgNObnQAC3dpdGhGaXh0dXJlc3EAfgALr3QJS3QAB2dvb2RVUkxzcQB+AAt78NkWdAAHcnVuVGVzdHNxAH4ACzUvK2F0AB1SZXN1bHRPZkJlV29yZEZvckNvbGxlY3RlZEFueXNxAH4ACxGGyWR0AANrZXlzcQB+AAuVau9hdAAMaXNJbnN0YW5jZU9mc3EAfgALZvIFe3QACHdpdGhDbHVlc3EAfgALCQsvj3QAEGFzc2VydGlvbnNIZWxwZXJzcQB+AAs58X4ddAARZXhlY3V0ZSRkZWZhdWx0JDZzcQB+AAvtCj/QdAAIdGFnZ2VkQXNzcQB+AAvxo0aVdAAPYXNzZXJ0VHlwZUVycm9yc3EAfgALPPSIMHQAJVJlc3VsdE9mRW5kV2l0aFdvcmRGb3JDb2xsZWN0ZWRTdHJpbmdzcQB+AAsWL9LGdAAGbWFya3Vwc3EAfgALcl9703QACGxlZnRTaWRlc3EAfgALXPBOQnQABjxpbml0PnNxAH4AC6uVudR0AAttYWNyb0Fzc3VtZXNxAH4AC7zjvDl0AA9ydW5OZXN0ZWRTdWl0ZXNzcQB+AAu2Xqn4dAAIaW50ZXJ2YWxzcQB+AAusBaOzdAAZUmVzdWx0T2ZIYXZlV29yZEZvckV4dGVudHNxAH4AC7Cgc7p0AANjYW5zcQB+AAvwdliedAAPYXBwbHkkZGVmYXVsdCQyc3EAfgALxcaklnQABWJlaW5nc3EAfgAL68jFjHQABWVxdWFsc3EAfgAL1QZtiXQABkl0V29yZHNxAH4AC7h8Kr90AAhhcmVFcXVhbHNxAH4AC6mCpo50AAZub25lT2ZzcQB+AAtGOvyldAAFYXBwbHlzcQB+AAsnY1cydAAJd2l0aEdyb3Vwc3EAfgALTrm3MXQABWFmdGVyc3EAfgALhQCDDnQABnNjYWxlZHNxAH4AC4/YBtV0AAlFcXVhbGl6ZXJzcQB+AAucic9YdAAKYWZ0ZXJCZWluZ3NxAH4AC4TKKad0ABtuZXdBc3NlcnRpb25GYWlsZWRFeGNlcHRpb25zcQB+AAuylWgHdAAEbm90ZXNxAH4ACynIHJl0AAI9PXNxAH4AC05u+nN0AA5XZWJDcmF3bGVyU3BlY3NxAH4AC/R7pIJ0AB9JbkFuZElnbm9yZU1ldGhvZHNBZnRlclRhZ2dlZEFzc3EAfgALSHqh8XQAAmJ5c3EAfgALLYy52XQABnNvcnRlZHNxAH4AC9Cw4HZ0AApmdWxseU1hdGNoc3EAfgAL9MWQpHQABWNsb25lc3EAfgALJWxNCnQADEJlaGF2aW9yV29yZHNxAH4AC81ypFh0ABNTdHJpbmdTaG91bGRXcmFwcGVyc3EAfgALm6XrDHQABmV4cGVjdHNxAH4AC9oL8vh0AAZzaG91bGRzcQB+AAttwek2dAAQQW55U2hvdWxkV3JhcHBlcnNxAH4ACzO0mcl0ABdEZXRlcm1pbmVkQnlFcXVpdmFsZW5jZXNxAH4AC2ZJVuJ0AANub3RzcQB+AAviJ9TZdAALZWl0aGVyVmFsdWVzcQB+AAvNK0+fdAAfUmVzdWx0T2ZCZVdvcmRGb3JDb2xsZWN0ZWRBcnJheXNxAH4AC/PuLFZ0AAlkZWZpbmVkQXRzcQB+AAvXaTW7dAAMbmVzdGVkU3VpdGVzc3EAfgALN8MjF3QAA2Z1bnNxAH4ACxLHOBp0AAZhc3N1bWVzcQB+AAuQE3fRdAAGJGluaXQkc3EAfgAL3JykU3QAB2RlZmluZWRzcQB+AAs3IrU0dAAgbG93UHJpb3JpdHlUeXBlQ2hlY2tlZENvbnN0cmFpbnRzcQB+AAszokTKdAAHaW5jbHVkZXNxAH4AC3DpeDd0AAhUaGV5V29yZHNxAH4AC0s4ted0AAxyZWdpc3RlclRlc3RzcQB+AAvhxjCJdAAJdHlwZUNoZWNrc3EAfgALTewDdXQAEWV4ZWN1dGUkZGVmYXVsdCQ1c3EAfgAL14olhXQABGNvcHlzcQB+AAsTt2aBdAAPYXBwbHkkZGVmYXVsdCQxc3EAfgALxM4YF3QAAz09PXNxAH4AC46q4Yl0ABhuZXdUZXN0Q2FuY2VsZWRFeGNlcHRpb25zcQB+AAuyKYVYdAAHbWVzc2FnZXNxAH4AC+d5UV10AAh0b1N0cmluZ3NxAH4AC6uI9cZ0AAZiYWRVUkxzcQB+AAv15KbfdAAJdGVzdE5hbWVzc3EAfgALG0uYR3QAAmFuc3EAfgALV9M7vHQABmxlbmd0aHNxAH4AC9qwJxt0ABhTdHJpbmdNdXN0V3JhcHBlckZvclZlcmJzcQB+AAsTqdkQdAAJd2hlblJlYWR5c3EAfgALHvNbbnQAEWV4ZWN1dGUkZGVmYXVsdCQxc3EAfgALI0I0PnQAAmJlc3EAfgALA91PYHQAAiE9c3EAfgALK35FrHQAIlJlc3VsdE9mSGF2ZVdvcmRGb3JDb2xsZWN0ZWRFeHRlbnRzcQB+AAt4RvLvdAAfUmVzdWx0T2ZGdWxseU1hdGNoV29yZEZvclN0cmluZ3NxAH4ACyTP9vN0AAxtYXRjaFBhdHRlcm5zcQB+AAtnPJGmdAAXTGVnYWN5Q2hlY2tpbmdFcXVhbGl6ZXJzcQB+AAu+lr0sdAAYSWdub3JlVmVyYlN0cmluZ1RhZ2dlZEFzc3EAfgALdLVHnXQACGdldENsYXNzc3EAfgALS2jMOHQAE3JlZ2lzdGVySWdub3JlZFRlc3RzcQB+AAu7DAQBdAAGYmVoYXZlc3EAfgALOIb8h3QADmNvcHkkZGVmYXVsdCQxc3EAfgALyFvvA3QACHJ1blRlc3Rzc3EAfgALjj2om3QACGJlaGF2aW9yc3EAfgALUPZj5HQAEXBlbmRpbmdVbnRpbEZpeGVkc3EAfgALczXjAHQAGHRoZVNhbWVFbGVtZW50c0luT3JkZXJBc3NxAH4AC5TUJCt0ABdUaGVTYW1lSW5zdGFuY2VBc1BocmFzZXNxAH4AC1qUEMl0AA5UaGV5VmVyYlN0cmluZ3NxAH4ACwfxVzV0AA1hcmVFcXVpdmFsZW50c3EAfgALbPHfwHQAB2JldHdlZW5zcQB+AAt4E3vydAAHZGVjaWRlZHNxAH4AC3tJLAV0ABRSZXN1bHRPZkJlV29yZEZvckFueXNxAH4AC5JAJ+N0ABFleHBlY3RlZFRlc3RDb3VudHNxAH4AC5gPqo50AAdlbmRXaXRoc3EAfgALZRr6hXQACHJlcnVubmVyc3EAfgALhuxMenQADUZ1dHVyZUNvbmNlcHRzcQB+AAvQfL49dAALc2hvdWxkRXF1YWxzcQB+AAtIzN+HdAAJUmVnZXhXb3Jkc3EAfgALHnASK3QADFRoZUFmdGVyV29yZHNxAH4AC7XuWzZ0ACJjb252ZXJ0RXF1aXZhbGVuY2VUb0JUb0FDb25zdHJhaW50c3EAfgALVIfXOXQABW9uZU9mc3EAfgALfxv6i3QAAm5lc3EAfgALIHqNjHQADWlzUmVhZHlXaXRoaW5zcQB+AAut3fytdAAWVGhleVZlcmJTdHJpbmdUYWdnZWRBc3NxAH4AC47YrQF0AAlpc0V4cGlyZWRzcQB+AAuSQURYdAAHdGltZW91dHNxAH4AC0vRdIl0AAJub3NxAH4AC55++xZ0AChSZXN1bHRPZkZ1bGx5TWF0Y2hXb3JkRm9yQ29sbGVjdGVkU3RyaW5nc3EAfgALpCxFvXQAC2RvQ29sbGVjdGVkc3EAfgALmVXbJXQAEUNoZWNraW5nRXF1YWxpemVyc3EAfgALz52KrnQAIGNvbnZlcnRUb0xlZ2FjeUNoZWNraW5nRXF1YWxpemVyc3EAfgALGvTfgnQACHdyaXRhYmxlc3EAfgALqJ/MxnQAHVJlc3VsdE9mRXZhbHVhdGluZ0FwcGxpY2F0aW9uc3EAfgALhN2zA3QAB3BlbmRpbmdzcQB+AAucqev9dAAFdmFsdWVzcQB+AAv4iOzNdAAGaWdub3Jlc3EAfgALUqqrgXQACHNob3VsZEJlc3EAfgAL/ew6snQAHFJlc3VsdE9mSW5jbHVkZVdvcmRGb3JTdHJpbmdzcQB+AAv4D+ZddAAQSWdub3JlVmVyYlN0cmluZ3NxAH4AC/l0ej10AAttYWNyb0Fzc2VydHNxAH4AC2Jmc+l0AAZpbnNpZGVzcQB+AAu2LICedAAQPGluaXQ+JGRlZmF1bHQkMnNxAH4ACy8K6Sd0AAJlcXNxAH4AC872C9d0ABpjb252ZXJ0VG9DaGVja2luZ0VxdWFsaXplcnNxAH4AC5Rfxg90AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAsAPCcNdAACb2ZzcQB+AAvo/ta9dAACKy1zcQB+AAuYJQOXdAAPc3BhblNjYWxlRmFjdG9yc3EAfgALwPqe/3QACU5vQXJnVGVzdHNxAH4AC2lxIXx0AApJZ25vcmVXb3Jkc3EAfgALs09H6nQAAT5zcQB+AAvfJVARdAAIcmVhZGFibGVzcQB+AAtir9tsdAACIyNzcQB+AAugzmApdAAOUGF0aWVuY2VDb25maWdzcQB+AAvGHRcMdAAaU3RyaW5nU2hvdWxkV3JhcHBlckZvclZlcmJzcQB+AAtEVgvUdAAIZmluYWxpemVzcQB+AAuY7vcndAAbY29udmVyc2lvbkNoZWNrZWRDb25zdHJhaW50c3EAfgALqs/AiHQAC2F0TW9zdE9uZU9mc3EAfgALO8ezpHQABWFsbE9mc3EAfgALmhove3QADnByb2R1Y3RFbGVtZW50c3EAfgAL+5b18XQACGhhc2hDb2Rlc3EAfgAL9UnsSHQAB3N1aXRlSWRzcQB+AAt9AqM8dAAJc3VpdGVOYW1lc3EAfgALONHMdHQADFJlZ2V4V3JhcHBlcnNxAH4AC6ISaGN0AAN0aGVzcQB+AAvqnCs2dAAEb25seXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+Ak14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AChlZHUubmV1LmNvZS5zY2FsYS5jcmF3bGVyLldlYkNyYXdsZXJTcGVjdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAJ3NjYWxhLnJlZmxlY3QubWFjcm9zLmludGVybmFsLm1hY3JvSW1wbHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgJnc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+Ak1MAAlpbmhlcml0ZWRxAH4CTUwAB3BhcmVudHNxAH4CTXhxAH4CbHNxAH4CZ3VxAH4CSAAAAABzcQB+Amd1cQB+AkgAAAAAc3EAfgJndXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAB1zcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgJrdAAGSW5zaWRlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgJrc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANvcmdzcQB+AoR0AAlzY2FsYXRlc3RzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4ChXNxAH4CeHQACVRyeVZhbHVlc3EAfgJ+c3EAfgJ4dAAMU2NhbGFGdXR1cmVzc3EAfgJ8c3EAfgJ/dXEAfgKCAAAABHNxAH4ChHQAA29yZ3NxAH4ChHQACXNjYWxhdGVzdHNxAH4ChHQACmNvbmN1cnJlbnRxAH4Ci3NxAH4CeHQAB0Z1dHVyZXNxAH4CkHNxAH4CeHQAFVBhdGllbmNlQ29uZmlndXJhdGlvbnEAfgKQc3EAfgJ4dAAdQWJzdHJhY3RQYXRpZW5jZUNvbmZpZ3VyYXRpb25xAH4CkHNxAH4CeHQAD1NjYWxlZFRpbWVTcGFuc3EAfgKQc3EAfgJ4dAAITWF0Y2hlcnNxAH4CfnNxAH4CeHQACkV4cGxpY2l0bHlzcQB+AnxzcQB+An91cQB+AoIAAAADc3EAfgKEdAADb3Jnc3EAfgKEdAAJc2NhbGFjdGljcQB+AotzcQB+Anh0AAxNYXRjaGVyV29yZHNzcQB+AnxzcQB+An91cQB+AoIAAAAEc3EAfgKEdAADb3Jnc3EAfgKEdAAJc2NhbGF0ZXN0c3EAfgKEdAAFd29yZHNxAH4Ci3NxAH4CeHQACVRvbGVyYW5jZXEAfgKlc3EAfgJ4dAAIRmxhdFNwZWNxAH4CfnNxAH4CeHQADEZsYXRTcGVjTGlrZXEAfgJ+c3EAfgJ4dAALRG9jdW1lbnRpbmdxAH4CfnNxAH4CeHQACEFsZXJ0aW5ncQB+An5zcQB+Anh0AAlOb3RpZnlpbmdxAH4CfnNxAH4CeHQACUluZm9ybWluZ3EAfgJ+c3EAfgJ4dAAHQ2FuVmVyYnEAfgKuc3EAfgJ4dAAITXVzdFZlcmJxAH4CrnNxAH4CeHQAClNob3VsZFZlcmJxAH4CrnNxAH4CeHQAEFRlc3RSZWdpc3RyYXRpb25xAH4CfnNxAH4CeHQABVN1aXRlcQB+An5zcQB+Anh0AAxTZXJpYWxpemFibGVzcQB+AnxzcQB+An91cQB+AoIAAAADc3EAfgKEdAAEamF2YXNxAH4ChHQAAmlvcQB+AotzcQB+Anh0AA1BYnN0cmFjdFN1aXRlcQB+An5zcQB+Anh0AApBc3NlcnRpb25zcQB+An5zcQB+Anh0AAxUcmlwbGVFcXVhbHNxAH4CpXNxAH4CeHQAE1RyaXBsZUVxdWFsc1N1cHBvcnRxAH4CpXNxAH4CeHQABk9iamVjdHNxAH4CfHNxAH4Cf3VxAH4CggAAAANzcQB+AoRxAH4C1XNxAH4ChHQABGxhbmdxAH4Ci3NxAH4CeHQAA0FueXNxAH4CfHNxAH4Cf3VxAH4CggAAAAJzcQB+AoR0AAVzY2FsYXEAfgKLdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAVzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAZZWR1Lm5ldS5jb2Uuc2NhbGEuY3Jhd2xlcnNxAH4C8XQAEWVkdS5uZXUuY29lLnNjYWxhc3EAfgLxdAAHZWR1Lm5ldXNxAH4C8XQAA2VkdXNxAH4C8XQAC2VkdS5uZXUuY29lc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFalU597nVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AENEOlxTY2FsYUNsYXNzXEFzc2lnbm1lbnQ1X1dlYkNyYXdsZXJcdGFyZ2V0XHNjYWxhLTIuMTFcdGVzdC1jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU/pkAD16qcSDxf6XuH7Ry0EXrm88=
+external apis:
+3 items
+edu.neu.coe.scala.MonadOps -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwnceI0gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAec3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwfpakfnQABm5vdGlmeXNxAH4ADLyVGvd0AApsaWZ0RnV0dXJlc3EAfgAMp7L9enQAB2xpZnRUcnlzcQB+AAz1u6Y/dAAHZmxhdHRlbnNxAH4ADKmh+8p0AAhNb25hZE9wc3NxAH4ADDiazxh0AAR3YWl0c3EAfgAMMgjgsHQADSRhc0luc3RhbmNlT2ZzcQB+AAwJwmJ5dAADemlwc3EAfgAMepAZdHQABmVxdWFsc3NxAH4ADOL1pg50AAxhc0luc3RhbmNlT2ZzcQB+AAxpbMcfdAAMc3luY2hyb25pemVkc3EAfgAMBZhX1HQADSRpc0luc3RhbmNlT2ZzcQB+AAyRTkl1dAAIYXNGdXR1cmVzcQB+AAwd05G/dAALb3B0aW9uVG9UcnlzcQB+AAwQa8yPdAAJbm90aWZ5QWxsc3EAfgAMod2OBXQADGlzSW5zdGFuY2VPZnNxAH4ADHzityV0AAhzZXF1ZW5jZXNxAH4ADLjWek50AApsaWZ0T3B0aW9uc3EAfgAMegwCy3QAAj09c3EAfgAM54oS6HQABWNsb25lc3EAfgAMxHAiz3QACHRvU3RyaW5nc3EAfgAM15T1XXQAAiE9c3EAfgAM3+QnOHQACGdldENsYXNzc3EAfgAMKCZSrHQABG1hcDJzcQB+AAzgt21mdAACbmVzcQB+AAz6YdledAACZXFzcQB+AAwlgPaJdAACIyNzcQB+AAx4ydq2dAAIZmluYWxpemVzcQB+AAzHul9QdAAIaGFzaENvZGVzcQB+AAyq8TqYdAAOZmxhdHRlblJlY292ZXJzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBTeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAaZWR1Lm5ldS5jb2Uuc2NhbGEuTW9uYWRPcHN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGtzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AU0wACWluaGVyaXRlZHEAfgBTTAAHcGFyZW50c3EAfgBTeHEAfgBwc3EAfgBrdXEAfgBOAAAAAHNxAH4Aa3VxAH4ATgAAAABzcQB+AGt1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG90AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIh0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIlzcQB+AHx0AANBbnlzcQB+AIBzcQB+AIN1cQB+AIYAAAACc3EAfgCIdAAFc2NhbGFxAH4Aj3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAEWVkdS5uZXUuY29lLnNjYWxhc3EAfgCZdAAHZWR1Lm5ldXNxAH4AmXQAA2VkdXNxAH4AmXQAC2VkdS5uZXUuY29lc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFalU47cnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD5EOlxTY2FsYUNsYXNzXEFzc2lnbm1lbnQ1X1dlYkNyYXdsZXJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFM2VgqGIiRQw7jlyCBQGd70vcnz9
+edu.neu.coe.scala.MonadOps$ -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwnceI0gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAec3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwfpakfnQABm5vdGlmeXNxAH4ADLyVGvd0AApsaWZ0RnV0dXJlc3EAfgAMp7L9enQAB2xpZnRUcnlzcQB+AAz1u6Y/dAAHZmxhdHRlbnNxAH4ADKmh+8p0AAhNb25hZE9wc3NxAH4ADDiazxh0AAR3YWl0c3EAfgAMMgjgsHQADSRhc0luc3RhbmNlT2ZzcQB+AAwJwmJ5dAADemlwc3EAfgAMepAZdHQABmVxdWFsc3NxAH4ADOL1pg50AAxhc0luc3RhbmNlT2ZzcQB+AAxpbMcfdAAMc3luY2hyb25pemVkc3EAfgAMBZhX1HQADSRpc0luc3RhbmNlT2ZzcQB+AAyRTkl1dAAIYXNGdXR1cmVzcQB+AAwd05G/dAALb3B0aW9uVG9UcnlzcQB+AAwQa8yPdAAJbm90aWZ5QWxsc3EAfgAMod2OBXQADGlzSW5zdGFuY2VPZnNxAH4ADHzityV0AAhzZXF1ZW5jZXNxAH4ADLjWek50AApsaWZ0T3B0aW9uc3EAfgAMegwCy3QAAj09c3EAfgAM54oS6HQABWNsb25lc3EAfgAMxHAiz3QACHRvU3RyaW5nc3EAfgAM15T1XXQAAiE9c3EAfgAM3+QnOHQACGdldENsYXNzc3EAfgAMKCZSrHQABG1hcDJzcQB+AAzgt21mdAACbmVzcQB+AAz6YdledAACZXFzcQB+AAwlgPaJdAACIyNzcQB+AAx4ydq2dAAIZmluYWxpemVzcQB+AAzHul9QdAAIaGFzaENvZGVzcQB+AAyq8TqYdAAOZmxhdHRlblJlY292ZXJzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBTeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAaZWR1Lm5ldS5jb2Uuc2NhbGEuTW9uYWRPcHN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGtzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AU0wACWluaGVyaXRlZHEAfgBTTAAHcGFyZW50c3EAfgBTeHEAfgBwc3EAfgBrdXEAfgBOAAAAAHNxAH4Aa3VxAH4ATgAAAABzcQB+AGt1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG90AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIh0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIlzcQB+AHx0AANBbnlzcQB+AIBzcQB+AIN1cQB+AIYAAAACc3EAfgCIdAAFc2NhbGFxAH4Aj3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAEWVkdS5uZXUuY29lLnNjYWxhc3EAfgCZdAAHZWR1Lm5ldXNxAH4AmXQAA2VkdXNxAH4AmXQAC2VkdS5uZXUuY29lc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFalU47cnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD5EOlxTY2FsYUNsYXNzXEFzc2lnbm1lbnQ1X1dlYkNyYXdsZXJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFM2VgqGIiRQw7jlyCBQGd70vcnz9
+edu.neu.coe.scala.crawler.WebCrawler$ -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwn2t2pwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAec3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwOeC1yHQABm5vdGlmeXNxAH4ADDVJ+CB0AAFzc3EAfgAMD84QDHQABHdhaXRzcQB+AAz9mBZvdAANJGFzSW5zdGFuY2VPZnNxAH4ADBcabyp0AAZlcXVhbHNzcQB+AAxDrd85dAAEdXJsc3NxAH4ADPei3JN0AAxhc0luc3RhbmNlT2ZzcQB+AAxAgimJdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAwOX/tZdAAMc3luY2hyb25pemVkc3EAfgAM7DL2o3QADSRpc0luc3RhbmNlT2ZzcQB+AAy21PDxdAAEbWFpbnNxAH4ADKYHAOp0AAlub3RpZnlBbGxzcQB+AAy8gTAsdAANZ2V0VVJMQ29udGVudHNxAH4ADM9a64l0AApXZWJDcmF3bGVyc3EAfgAMFRYdtnQADGlzSW5zdGFuY2VPZnNxAH4ADET98rN0AAI9PXNxAH4ADNZWH590AAVjbG9uZXNxAH4ADO5uKfV0AAYkaW5pdCRzcQB+AAxgB12KdAAIdG9TdHJpbmdzcQB+AAyGM4KedAAEYXJnc3NxAH4ADIoteCl0AAIhPXNxAH4ADMXTrnZ0AAhnZXRDbGFzc3NxAH4ADH6cDkN0AAR3Z2V0c3EAfgAMMVg4inQAAm5lc3EAfgAMeMHIRHQAB2NyYXdsZXJzcQB+AAzCt93pdAACZXFzcQB+AAwdB3P4dAALZGVsYXllZEluaXRzcQB+AAypa1G+dAACIyNzcQB+AAy2Ql7jdAAIZmluYWxpemVzcQB+AAxQzkgvdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBTeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAkZWR1Lm5ldS5jb2Uuc2NhbGEuY3Jhd2xlci5XZWJDcmF3bGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBtc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFNMAAlpbmhlcml0ZWRxAH4AU0wAB3BhcmVudHNxAH4AU3hxAH4AcnNxAH4AbXVxAH4ATgAAAABzcQB+AG11cQB+AE4AAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFRxAH4AXXVxAH4AXgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHx4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AcXQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBxc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCWc3EAfgBgAHEAfgAjdXEAfgBjAAAAAHNxAH4AiXQABFVuaXRxAH4Aj3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHx4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGZ0AAVQbGFpbnEAfgA1c3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCKWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBxc3EAfgCJdAAFQXJyYXlxAH4Aj3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCJdAAGU3RyaW5nc3EAfgCNc3EAfgCQdXEAfgCTAAAAA3NxAH4AlXQABGphdmFzcQB+AJV0AARsYW5ncQB+AJpzcQB+AG11cQB+ALEAAAAEc3EAfgCJdAADQXBwcQB+AI9zcQB+AIl0AAtEZWxheWVkSW5pdHEAfgCPc3EAfgCJdAAGT2JqZWN0cQB+ALVzcQB+AIl0AANBbnlxAH4Aj3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAFc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAGWVkdS5uZXUuY29lLnNjYWxhLmNyYXdsZXJzcQB+AMh0ABFlZHUubmV1LmNvZS5zY2FsYXNxAH4AyHQAB2VkdS5uZXVzcQB+AMh0AANlZHVzcQB+AMh0AAtlZHUubmV1LmNvZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpVOO3J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA+RDpcU2NhbGFDbGFzc1xBc3NpZ25tZW50NV9XZWJDcmF3bGVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQ7ZQH8vB5Nx8Vf3tkfG5JIsjaK3Q==
+source infos:
+1 items
+D:\ScalaClass\Assignment5_WebCrawler\src\test\scala\edu\neu\coe\scala\crawler\WebCrawlerSpec.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWpVOfe51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQ0Q6XFNjYWxhQ2xhc3NcQXNzaWdubWVudDVfV2ViQ3Jhd2xlclx0YXJnZXRcc2NhbGEtMi4xMVx0ZXN0LWNsYXNzZXN0AAEv
